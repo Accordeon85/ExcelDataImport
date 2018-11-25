@@ -1,0 +1,13 @@
+[
+  {
+    "FileName": "Users.xlsx",
+    "StartingCells": {
+       "Users": "B2" ,
+       "Adresses": "C2" 
+    }
+  },
+  {
+    "FileName": "Cars.xlsx",
+    "StartingCells":  { "Voitures": "C2" } 
+  }
+]
