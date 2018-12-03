@@ -1,4 +1,5 @@
-﻿**/bin
+**/bin
 **/packages
 **/obj
 **/.vs
+/Data/*.*
